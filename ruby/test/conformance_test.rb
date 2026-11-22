@@ -1,3 +1,5 @@
+
+
 # frozen_string_literal: true
 
 # Runs every applicable case in spec/vectors.json (SPEC.md Section 8).
