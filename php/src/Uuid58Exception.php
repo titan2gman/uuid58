@@ -6,6 +6,7 @@ namespace NakanoAsAService\Uuid58;
 
 use InvalidArgumentException;
 
+
 /**
  * Thrown for invalid input. `$kind` tells callers which spec error kind
  * (SPEC.md Section 7) occurred; the message is not part of the specification.
