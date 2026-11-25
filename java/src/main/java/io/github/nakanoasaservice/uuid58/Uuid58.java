@@ -1,3 +1,5 @@
+
+
 package io.github.nakanoasaservice.uuid58;
 
 import io.github.nakanoasaservice.uuid58.Uuid58Exception.Kind;
